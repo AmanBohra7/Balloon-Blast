@@ -8,7 +8,7 @@ Welcome to **Balloon Blast**, a local **Mixed Reality (MR) game** built using **
 This game leverages **spatial anchors** for a seamless co-located multiplayer experience, using Meta's new **co-located discovery** and **group-sharing APIs**.  
 
 
-## 🖼️ Screenshots & GIFs  
+## 🖼️ Screenshots
 ### Gameplay Screenshots  
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/da7485b1-81de-423c-b78a-51de1bd7c8fb" />
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/6bd4c390-f8f1-4d9f-b332-9b50bc272d64" />
