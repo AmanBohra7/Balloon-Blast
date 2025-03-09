@@ -16,7 +16,7 @@ This game leverages **spatial anchors** for a seamless co-located multiplayer ex
 ## 📊 Flowcharts  
 Here are some flowcharts illustrating the game logic and system architecture:  
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/70686e62-e158-4e2b-ad38-9f70270c3b04" />
-<img width="455" alt="Image" src="https://github.com/user-attachments/assets/a3ba25bb-c72f-470e-9a30-1a94707b5103" />
+<img width="455" alt="Image" src="https://github.com/user-attachments/assets/fe4c8cad-1a8e-4645-be8f-700027bf6746" />
 
 ## 🏗️ Tech Stack  
 - 🎮 **Game Engine**: Unity 6  
