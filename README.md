@@ -10,13 +10,13 @@ This game leverages **spatial anchors** for a seamless co-located multiplayer ex
 
 ## 🖼️ Screenshots
 ### Gameplay Screenshots  
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/da7485b1-81de-423c-b78a-51de1bd7c8fb" />
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/6bd4c390-f8f1-4d9f-b332-9b50bc272d64" />
+<img width="400" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/frame_1.jpg" />
+<img width="400" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/frame_2.jpg" />
 
 ## 📊 Flowcharts  
 Here are some flowcharts illustrating the game logic and system architecture:  
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/70686e62-e158-4e2b-ad38-9f70270c3b04" />
-<img width="455" alt="Image" src="https://github.com/user-attachments/assets/fe4c8cad-1a8e-4645-be8f-700027bf6746" />
+<img width="400" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/XRConnectionHandler.png" />
+<img width="455" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/script_controlls.png" />
 
 ## 🏗️ Tech Stack  
 - 🎮 **Game Engine**: Unity 6  
