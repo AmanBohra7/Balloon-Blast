@@ -18,10 +18,6 @@ Here are some flowcharts illustrating the game logic and system architecture:
 <img width="400" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/XRConnectionHandler.png" />
 <img width="455" alt="Image" src="https://github.com/AmanBohra7/Balloon-Blast/blob/master/Content/script_controlls.png" />
 
-## 🏗️ Tech Stack  
-- 🎮 **Game Engine**: Unity 6  
-- 🛠️ **SDK**: Meta XR SDK   
-
 ## 🛠️ Setup & Installation  
 ### Prerequisites  
 - ✅ Unity 6 installed  
