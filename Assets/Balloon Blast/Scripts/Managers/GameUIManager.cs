@@ -133,8 +133,11 @@ public class GameUIManager : MonoBehaviour
 
     private void Update()
     {
-        canvasParent.LookAt(Camera.main.transform);
-        canvasParent.eulerAngles = Vector3.up * canvasParent.eulerAngles.y;
+        if(canvasParent != null)
+        {
+            canvasParent.LookAt(Camera.main.transform);
+            canvasParent.eulerAngles = Vector3.up * canvasParent.eulerAngles.y;
+        }
     }
 
     private void OnGameTimerValueUpdated(float previousValue, float newValue)
@@ -158,9 +161,13 @@ public class GameUIManager : MonoBehaviour
 
     private void OnDestroy()
     {
-        gameManger.GetGameState().OnValueChanged -= OnGameStateChanged;
-        gameManger.GetPlayerDataUpdate().OnListChanged -= OnPlayersDataUpdated;
-        gameManger.GetGameTimer().OnValueChanged -= OnGameTimerValueUpdated;
+        if (gameManger != null)
+        {
+            gameManger.GetGameState().OnValueChanged -= OnGameStateChanged;
+            gameManger.GetPlayerDataUpdate().OnListChanged -= OnPlayersDataUpdated;
+            gameManger.GetGameTimer().OnValueChanged -= OnGameTimerValueUpdated;
+        }
+       
 
         XRConnectionHandler.Instance.OnAdvertisingFailed -= OnConnectionFailed;
         XRConnectionHandler.Instance.OnDiscoveringFailed -= OnConnectionFailed;

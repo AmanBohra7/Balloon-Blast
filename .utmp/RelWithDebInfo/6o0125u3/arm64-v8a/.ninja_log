@@ -1,0 +1,10 @@
+# ninja log v5
+64	2008	7632518898778021	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2b1e74df65749d6a
+8	2061	7632518899330352	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b3ca020651071b3d
+36	2088	7632518899613638	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4182b6874ad4bebc
+55	2104	7632518899769693	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d70e46b45185b594
+46	2281	7632518901541452	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c5308606dec70fc5
+1	2412	7632518902809790	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3549b505470cf54e
+18	2797	7632518906678366	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6f65342cc5c88a77
+27	3081	7632518909528597	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	606d37c6237630e4
+3081	3339	7632518912045444	D:/Aman/Work/Balloon-Blast/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6o0125u3/obj/arm64-v8a/libgame.so	d5efdec4ade11929
